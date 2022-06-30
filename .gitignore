@@ -2,6 +2,8 @@
 *.py[cod] 
 *$py.class 
 
+EHill/pycharm
+
 # Distribution / packaging 
 .Python build/ 
 develop-eggs/ 
