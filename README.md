@@ -2,3 +2,5 @@
 )
 
 [Trello](https://trello.com/b/oLgiNvJq/canfield)
+
+[Old team doc](https://docs.google.com/document/d/1RBoLq5YBpn8z4q7_sYcwiEOcK3j4Ji0Ce0re5IT70Ck)
